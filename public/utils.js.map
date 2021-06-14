@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://webpack-lesson/./src/js/utils/index.js"],"names":["log","str","console"],"mappings":";;;;;;;;;;;;;AAAA,iEAAe;AACbA,KAAG,EAAE,aAAUC,GAAV,EAAe;AAClBC,WAAO,CAACF,GAAR,CAAYC,GAAZ;AACD;AAHY,CAAf,E","file":"utils.js","sourcesContent":["export default {\n  log: function (str) {\n    console.log(str);\n  },\n};\n"],"sourceRoot":""}
